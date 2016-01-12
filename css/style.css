@@ -1,0 +1,38 @@
+.nav, .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover,
+						.nav-tabs > li.active > a:focus, .nav-tabs > li > a {
+							border: none;
+						}
+
+						.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover,
+						.nav-tabs > li.active > a:focus {
+							border: none;
+						}
+					.row-eq-height {
+							display: -webkit-box;
+							display: -webkit-flex;
+							display: -ms-flexbox;
+							display: flex; 
+						}
+					
+ .container{background-color: #003300}
+p {
+    color:white;
+}
+
+.white {
+	background-color:white;
+}
+#yellowtext {
+	color:yellow;
+}
+#computer {
+	height: 600px;
+	background: url('http://www.wildcreekconsulting.com/wp-content/uploads/2015/08/information-technology-banner-design-10.png') no-repeat center center fixed; 
+  	background-size: cover;
+}
+body {
+    background-color: black;
+}
+#blacktext {
+	color:black;
+}
