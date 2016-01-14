@@ -14,7 +14,7 @@
 							display: flex; 
 						}
 					
- .container{background-color: #003300}
+ .container{background-color: #BLUE}
 p {
     color:white;
 }
@@ -22,8 +22,8 @@ p {
 .white {
 	background-color:white;
 }
-#yellowtext {
-	color:yellow;
+#bluetext {
+	color:blue;
 }
 #computer {
 	height: 600px;
@@ -36,3 +36,5 @@ body {
 #blacktext {
 	color:black;
 }
+h1 {font-family: 'Pacifico', cursive;}
+h2 {font-family: 'Pacifico', cursive;}
